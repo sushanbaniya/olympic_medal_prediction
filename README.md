@@ -1,1 +1,3 @@
-# olympic_medal_prediction
+# OLYMPIC MEDAL PREDICTION
+
+Predicting the medals in the olympic
